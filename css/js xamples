@@ -1,0 +1,38 @@
+let variable1 =12;
+let variable2 = 9;
+if( variable1 > variable2){
+    console.log(variable1 - variable2);
+}
+else{
+        console.log(variable2 - variable1);
+}
+
+//
+const a = 20;
+if( a >= 12 & a<=20)
+    console.log("It's cold"); 
+else if(  a >= 20 & a<=30)
+    console.log("IT's normal");
+else( a >= 30 & a >= 45 )
+    console.log("IT's warm");
+	
+//	
+let sum = 0;
+for(let i = 0; i < 25; i+=2) {
+	sum += i
+}
+console.log(sum);
+
+//10 tveri gumar@
+var a=10;
+var sum =0;
+for(let i=0;i <= a; i++){
+    sum +=i;
+}
+console.log(sum);
+
+//
+let num=10;
+let sum=0;
+sum=((1+num)/2)*;
+console.log(sum);
